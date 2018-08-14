@@ -1,0 +1,2 @@
+# mywheel
+此自定义控件是在recycleview的基础上进行扩展的，可以实现私人订制的wheel.根据代码中的
