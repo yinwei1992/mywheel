@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">mywheel</string>
+    <string name="min">分</string>
+    <string name="sec">秒</string>
+</resources>
